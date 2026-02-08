@@ -13,7 +13,7 @@ Graficki korisnicki interfejs za procjenu zrelosti organizacija za koristenje HP
 ## Pokretanje
 
 ```bash
-# Navigirajte u folder sa aplikacijom
+# folder sa aplikacijom
 cd hpc_assessment
 
 # Pokrenite GUI
